@@ -76,7 +76,7 @@
 
 
 @snap[north-west]
-<img src="assets/superoktaman.png" style="height: 25%; width: 25%; border: 0;"/>
+<img src="assets/bd.png" style="height: 25%; width: 25%; border: 0;"/>
 @snapend
 
 @snap[east]
