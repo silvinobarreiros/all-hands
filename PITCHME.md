@@ -85,40 +85,32 @@
 @snapend
 
 @snap[east]
-<img src="assets/ecs/ecs_1.png" style="height: 75%; width: 75%;"/>
+<img src="assets/ecs/ecs_1.png" style="height: 85%; width: 85%;"/>
 @snapend
 ---
 
-@snap[north-west]
+@snap[south-west]
 <img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
-<img src="assets/ecs/ecs_2.png" style="height: 75%; width: 75%;"/>
+<img src="assets/ecs/ecs_2.png" style="height: 85%; width: 85%;"/>
 @snapend
 ---
-@snap[north-west]
+@snap[north-east]
 <img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
-@snap[east]
-<img src="assets/ecs/ecs_3.png" style="height: 75%; width: 75%;"/>
+@snap[west]
+<img src="assets/ecs/ecs_3.png" style="height: 85%; width: 85%;"/>
 @snapend
 ---
-@snap[north-west]
+@snap[south-east]
 <img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
-@snap[east]
-<img src="assets/ecs/ecs_4.png" style="height: 75%; width: 75%;"/>
-@snapend
----
-@snap[north-west]
-<img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
-@snapend
-
-@snap[east]
-<img src="assets/ecs/ecs_5.png" style="height: 75%; width: 75%;"/>
+@snap[west]
+<img src="assets/ecs/ecs_4.png" style="height: 85%; width: 85%;"/>
 @snapend
 ---
 @snap[north-west]
@@ -126,7 +118,7 @@
 @snapend
 
 @snap[east]
-<img src="assets/ecs/ecs_6.png" style="height: 75%; width: 75%;"/>
+<img src="assets/ecs/ecs_5.png" style="height: 85%; width: 85%;"/>
 @snapend
 ---
 @snap[north-west]
@@ -134,7 +126,15 @@
 @snapend
 
 @snap[east]
-<img src="assets/ecs/ecs_7.png" style="height: 75%; width: 75%;"/>
+<img src="assets/ecs/ecs_6.png" style="height: 85%; width: 85%;"/>
+@snapend
+---
+@snap[north-west]
+<img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
+@snapend
+
+@snap[east]
+<img src="assets/ecs/ecs_7.png" style="height: 85%; width: 85%;"/>
 @snapend
 ---
 
