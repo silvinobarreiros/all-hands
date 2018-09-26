@@ -73,6 +73,35 @@
 @snapend
 ---
 
+
+
+@snap[north-west]
+<br>
+  <img src="assets/superoktaman.png" style="height: 25%; width: 25%;"/>
+<br>
+@snapend
+
+@snap[east]
+<br>
+  <img src="assets/ecs/ecs_1.png" style="height: 75%; width: 75%;"/>
+<br>
+@snapend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## ECS + Fargate
 <img src="assets/ecs/ecs_overview.png" style="height: 75%; width: 75%;"/>
 ---
