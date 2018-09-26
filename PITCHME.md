@@ -4,6 +4,21 @@
 ---?image=assets/gifs/facts.gif
 ---
 
+## @pugsnaps on IG
+<img src="assets/diesel/in_my_feelings.png" style="height: 40%; width: 40%;"/>
+---
+
+@snap[west]
+<br>
+![Image-GIF](https://media.giphy.com/media/1jWcsosCiAuwQC7RwQ/giphy.gif)
+<br>
+@snapend
+
+@snap[east]
+@size[1.5em](In My Feelings)
+@snapend
+---
+
 ## Agenda
 
 * Bank architecture overview
@@ -11,10 +26,6 @@
 * Service chat
 
 * ECS + Fargate
----
-
-## @pugsnaps on IG
-<img src="assets/diesel/diesel.jpg" style="height: 35%; width: 35%;"/>
 ---
 
 ## Some random words
@@ -38,17 +49,17 @@
 ---
 
 ## @pugsnaps on IG
-<img src="assets/diesel/in_my_feelings.png" style="height: 40%; width: 40%;"/>
+<img src="assets/diesel/esskeetit.png" style="height: 40%; width: 40%;"/>
 ---
 
 @snap[west]
 <br>
-![Image-GIF](https://media.giphy.com/media/1jWcsosCiAuwQC7RwQ/giphy.gif)
+![Image-GIF](https://media.giphy.com/media/DAGFukaBjqOAQZq8jO/source.mp4)
 <br>
 @snapend
 
 @snap[east]
-@size[1.5em](In My Feelings)
+@size[1.5em](Esskeetit)
 @snapend
 ---
 
@@ -65,6 +76,23 @@
 <img src="assets/checking/checking_5.png" style="height: 75%; width: 75%;"/>
 ---
 
+## @pugsnaps on IG
+<img src="assets/diesel/portland.png" style="height: 40%; width: 40%;"/>
+---
+
+@snap[west]
+<br>
+![Image-GIF](https://media.giphy.com/media/l2RnB2zd7hxtNimxa/giphy.gif)
+<br>
+@snapend
+
+@snap[east]
+@size[1.5em](Portland)
+@snapend
+---
+
+<img src="assets/checking/webhooks.png" style="height: 52%; width: 52%;"/>
+---
 
 
 ## Questions
