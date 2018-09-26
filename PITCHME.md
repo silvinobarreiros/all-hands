@@ -52,17 +52,17 @@
 @snapend
 ---
 
-<img src="assets/checking/checking_0.png" style="height: 85%; width: 85%;"/>
+<img src="assets/checking/checking_0.png" style="height: 75%; width: 75%;"/>
 ---
-<img src="assets/checking/checking_1.png" style="height: 85%; width: 85%;"/>
+<img src="assets/checking/checking_1.png" style="height: 75%; width: 75%;"/>
 ---
-<img src="assets/checking/checking_2.png" style="height: 85%; width: 85%;"/>
+<img src="assets/checking/checking_2.png" style="height: 75%; width: 75%;"/>
 ---
-<img src="assets/checking/checking_3.png" style="height: 85%; width: 85%;"/>
+<img src="assets/checking/checking_3.png" style="height: 75%; width: 75%;"/>
 ---
-<img src="assets/checking/checking_4.png" style="height: 85%; width: 85%;"/>
+<img src="assets/checking/checking_4.png" style="height: 75%; width: 75%;"/>
 ---
-<img src="assets/checking/checking_5.png" style="height: 85%; width: 85%;"/>
+<img src="assets/checking/checking_5.png" style="height: 75%; width: 75%;"/>
 ---
 
 
