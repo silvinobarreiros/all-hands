@@ -74,6 +74,11 @@
 ---
 
 
+## ECS + Fargate
+<img src="assets/ecs/ecs_overview.png" style="height: 75%; width: 75%; border: 0; box-shadow: none !important; background: none !important;"/>
+---
+<img src="assets/superoktaman.png" style="height: 40%; width: 40%;"/>
+---
 
 @snap[north-west]
 <img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
@@ -84,39 +89,53 @@
 @snapend
 ---
 
+@snap[north-west]
+<img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
+@snapend
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## ECS + Fargate
-<img src="assets/ecs/ecs_overview.png" style="height: 75%; width: 75%;"/>
----
-<img src="assets/superoktaman.png" style="height: 40%; width: 40%;"/>
----
-<img src="assets/ecs/ecs_1.png" style="height: 75%; width: 75%;"/>
----
+@snap[east]
 <img src="assets/ecs/ecs_2.png" style="height: 75%; width: 75%;"/>
+@snapend
 ---
+@snap[north-west]
+<img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
+@snapend
+
+@snap[east]
 <img src="assets/ecs/ecs_3.png" style="height: 75%; width: 75%;"/>
+@snapend
 ---
+@snap[north-west]
+<img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
+@snapend
+
+@snap[east]
 <img src="assets/ecs/ecs_4.png" style="height: 75%; width: 75%;"/>
+@snapend
 ---
+@snap[north-west]
+<img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
+@snapend
+
+@snap[east]
 <img src="assets/ecs/ecs_5.png" style="height: 75%; width: 75%;"/>
+@snapend
 ---
+@snap[north-west]
+<img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
+@snapend
+
+@snap[east]
 <img src="assets/ecs/ecs_6.png" style="height: 75%; width: 75%;"/>
+@snapend
 ---
+@snap[north-west]
+<img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
+@snapend
+
+@snap[east]
 <img src="assets/ecs/ecs_7.png" style="height: 75%; width: 75%;"/>
+@snapend
 ---
 
 ## @pugsnaps on IG
