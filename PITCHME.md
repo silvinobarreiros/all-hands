@@ -27,8 +27,9 @@
 
 @ulend
 ---
-@title[Overview]
-## Overview
+@snap[north text-white span-70]
+Overview
+@snapend
 
 @snap[west splitscreen]
 <img src="assets/checking/checking_overview.png" style="height: 35%; width: 35%;"/>
