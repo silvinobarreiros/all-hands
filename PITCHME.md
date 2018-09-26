@@ -1,5 +1,4 @@
 
----
 @snap[east splitscreen fragment]
 <br>
 ![Image-GIF](https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/octocat-daftpunkocat.gif)
