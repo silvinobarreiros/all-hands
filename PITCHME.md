@@ -1,26 +1,12 @@
+
 ---
-@transition[none]
-
-@snap[north]
-North
+@snap[east splitscreen fragment]
+<br>
+![Image-GIF](https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/octocat-daftpunkocat.gif)
+<br>
 @snapend
 
-@snap[east]
-East
-@snapend
-
-@snap[south]
-South
-@snapend
-
-@snap[west]
-West
-@snapend
-  
-@snap[midpoint]
-MidPoint
-@snapend
-
+---
 
 
 # Bank Platform
