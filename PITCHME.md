@@ -47,7 +47,7 @@
 <br>
 @snapend
 
-@snap[east splitscreen text-color white]
+@snap[east splitscreen color white]
 In My Feelings
 @snapend
 ---
