@@ -1,16 +1,25 @@
-## Hello!
-
-+++
-
-## Hola!
-
 ---
+@transition[none]
 
-## Goodbye!
+@snap[north]
+North
+@snapend
 
-+++
+@snap[east]
+East
+@snapend
 
-## Adiós!
+@snap[south]
+South
+@snapend
+
+@snap[west]
+West
+@snapend
+  
+@snap[midpoint]
+MidPoint
+@snapend
 
 
 
