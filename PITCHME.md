@@ -76,7 +76,7 @@
 
 
 @snap[north-west]
-<img src="assets/bd.png" style="height: 25%; width: 25%; border: 0;"/>
+<img src="assets/bd.png" style="height: 25%; width: 25%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
