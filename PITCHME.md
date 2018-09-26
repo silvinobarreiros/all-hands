@@ -35,9 +35,7 @@
 @snapend
 
 @snap[east splitscreen]
-<br>
-  <img src="assets/checking/webhooks.png" style="height: 35%; width: 35%;"/>
-<br>
+<img src="assets/checking/webhooks.png" style="height: 35%; width: 35%;"/>>
 @snapend
 
 ---
