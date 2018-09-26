@@ -32,11 +32,11 @@ Overview
 @snapend
 
 @snap[west splitscreen]
-<img src="assets/checking/checking_overview.png" style="height: 50%; width: 50%;"/>
+<img src="assets/checking/checking_overview.png" style="height: 75%; width: 75%;"/>
 @snapend
 
 @snap[east splitscreen]
-<img src="assets/checking/webhooks.png" style="height: 50%; width: 50%;"/>
+<img src="assets/checking/webhooks.png" style="height: 40%; width: 40%;"/>
 @snapend
 
 ---
