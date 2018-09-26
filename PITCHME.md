@@ -27,18 +27,14 @@
 
 @ulend
 ---
-@snap[north text-white span-70]
-Overview
-@snapend
 
-@snap[west splitscreen]
+## Service View
 <img src="assets/checking/checking_overview.png" style="height: 75%; width: 75%;"/>
-@snapend
+---
 
-@snap[east splitscreen]
-<img src="assets/checking/webhooks.png" style="height: 40%; width: 40%;"/>
-@snapend
 
+## Webhooks
+<img src="assets/checking/webhooks.png" style="height: 65%; width: 65%;"/>
 ---
 
 
