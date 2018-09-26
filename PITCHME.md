@@ -27,10 +27,7 @@
 
 @ulend
 ---
-
-@snap[north splitscreen]
-## Overview
-@snapend
+@title[Overview]
 
 @snap[west splitscreen]
 <img src="assets/checking/checking_overview.png" style="height: 35%; width: 35%;"/>
