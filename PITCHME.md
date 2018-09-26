@@ -1,7 +1,7 @@
 # Bank Platform
 ---
 
-+++?image=assets/gifs/ballmer.gif
+---?image=assets/gifs/ballmer.gif
 @title[GIF Background]
 
 
