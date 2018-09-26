@@ -29,7 +29,7 @@
 ---
 
 ### Service View
-<img src="assets/checking/checking_overview.png" style="height: 75%; width: 75%;"/>
+<img src="assets/checking/checking_overview.png" style="height: 100%; width: 100%;"/>
 ---
 
 
