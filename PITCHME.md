@@ -85,7 +85,7 @@
 @snapend
 
 @snap[east]
-<img src="assets/ecs/ecs_1.png" style="height: 85%; width: 85%;"/>
+<img src="assets/ecs/ecs_1.png" style="height: 80%; width: 80%;"/>
 @snapend
 ---
 
@@ -94,7 +94,7 @@
 @snapend
 
 @snap[east]
-<img src="assets/ecs/ecs_2.png" style="height: 85%; width: 85%;"/>
+<img src="assets/ecs/ecs_2.png" style="height: 80%; width: 80%;"/>
 @snapend
 ---
 @snap[north-east]
@@ -102,40 +102,16 @@
 @snapend
 
 @snap[west]
-<img src="assets/ecs/ecs_3.png" style="height: 85%; width: 85%;"/>
+<img src="assets/ecs/ecs_3.png" style="height: 80%; width: 80%;"/>
 @snapend
 ---
-@snap[south-east]
-<img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
-@snapend
-
-@snap[west]
-<img src="assets/ecs/ecs_4.png" style="height: 85%; width: 85%;"/>
-@snapend
+<img src="assets/ecs/ecs_4.png" style="height: 80%; width: 80%;"/>
 ---
-@snap[north-west]
-<img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
-@snapend
-
-@snap[east]
-<img src="assets/ecs/ecs_5.png" style="height: 85%; width: 85%;"/>
-@snapend
+<img src="assets/ecs/ecs_5.png" style="height: 80%; width: 80%;"/>
 ---
-@snap[north-west]
-<img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
-@snapend
-
-@snap[east]
-<img src="assets/ecs/ecs_6.png" style="height: 85%; width: 85%;"/>
-@snapend
+<img src="assets/ecs/ecs_6.png" style="height: 80%; width: 80%;"/>
 ---
-@snap[north-west]
-<img src="assets/bd.png" style="height: 45%; width: 45%; border: 0; box-shadow: none !important; background: none !important;"/>
-@snapend
-
-@snap[east]
-<img src="assets/ecs/ecs_7.png" style="height: 85%; width: 85%;"/>
-@snapend
+<img src="assets/ecs/ecs_7.png" style="height: 80%; width: 80%;"/>
 ---
 
 ## @pugsnaps on IG
