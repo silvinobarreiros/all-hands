@@ -75,9 +75,9 @@
 
 
 ## ECS + Fargate
-<img src="assets/ecs/ecs_overview.png" style="height: 75%; width: 75%; border: 0; box-shadow: none !important; background: none !important;"/>
+<img src="assets/ecs/ecs_overview.png" style="height: 75%; width: 75%;"/>
 ---
-<img src="assets/superoktaman.png" style="height: 40%; width: 40%;"/>
+<img src="assets/superoktaman.png" style="height: 40%; width: 40%;border: 0; box-shadow: none !important; background: none !important;"/>
 ---
 
 @snap[north-west]
