@@ -19,23 +19,13 @@
 
 ## Some random words
 
-* Greendot
----
-@transition[none slide]
-## Some random words
+@ul
 
-* Greendot
+- Greendot
+- We're not really the source of truth for anything
+- API Calls + Events
 
-* We're not really the source of truth for anything
----
-@transition[none slide]
-## Some random words
-
-* Greendot
-
-* We're not really the source of truth for anything
-
-* API Calls + Events
+@ulend
 ---
 
 
