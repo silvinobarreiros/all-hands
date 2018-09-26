@@ -4,18 +4,40 @@
 ---?image=assets/gifs/facts.gif
 ---
 
-## Who AMI
+## Agenda
 
-* Lead Software Engineer @ Stash
+* Bank architecture overview
 
-* Pug Enthusiast
+* Service chat
 
-* C -> Java -> C# -> Java -> Scala
+* ECS + Fargate
 ---
 
 ## @pugsnaps on IG
 <img src="assets/diesel.jpg" style="height: 35%; width: 35%;"/>
 ---
+
+## Some random words
+
+* Greendot
+---
+@transition[none slide]
+## Some random words
+
+* Greendot
+
+* We're not really the source of truth for anything
+---
+@transition[none slide]
+## Some random words
+
+* Greendot
+
+* We're not really the source of truth for anything
+
+* API Calls + Events
+---
+
 
 ## What are we doing?
 
