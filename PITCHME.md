@@ -32,13 +32,13 @@
 
 @snap[west splitscreen]
 <br>
-  <img src="assets/checking/checking_overview.png" style="height: 35%; width: 35%;"/>
+![Image-Relative](assets/checking/checking_overview.png)
 <br>
 @snapend
 
-@snap[west splitscreen]
+@snap[east splitscreen]
 <br>
-  <img src="assets/checking/webhooks.png" style="height: 35%; width: 35%;"/>
+![Image-Relative](assets/checking/webhooks.png)
 <br>
 @snapend
 
