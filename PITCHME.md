@@ -48,7 +48,7 @@
 @snapend
 
 @snap[east]
-@css[song](In My Feelings)
+@size[1.5em](In My Feelings)
 @snapend
 ---
 
