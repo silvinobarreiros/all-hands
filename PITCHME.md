@@ -28,13 +28,14 @@
 @ulend
 ---
 @title[Overview]
+## Overview
 
 @snap[west splitscreen]
 <img src="assets/checking/checking_overview.png" style="height: 35%; width: 35%;"/>
 @snapend
 
 @snap[east splitscreen]
-<img src="assets/checking/webhooks.png" style="height: 35%; width: 35%;"/>>
+<img src="assets/checking/webhooks.png" style="height: 35%; width: 35%;"/>
 @snapend
 
 ---
