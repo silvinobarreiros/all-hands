@@ -31,9 +31,7 @@
 ## Overview
 
 @snap[west splitscreen]
-<br>
-  <img src="assets/checking/checking_overview.png" style="height: 35%; width: 35%;"/>
-<br>
+<img src="assets/checking/checking_overview.png" style="height: 35%; width: 35%;"/>
 @snapend
 
 @snap[east splitscreen]
