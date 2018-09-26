@@ -76,7 +76,7 @@
 ## ECS + Fargate
 <img src="assets/ecs/ecs_overview.png" style="height: 75%; width: 75%;"/>
 ---
-<img src="assets/superoktaman.png" style="height: 50%; width: 50%;"/>
+<img src="assets/superoktaman.png" style="height: 45%; width: 45%;"/>
 ---
 <img src="assets/ecs/ecs_1.png" style="height: 75%; width: 75%;"/>
 ---
