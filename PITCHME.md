@@ -34,7 +34,7 @@
 
 
 ## Webhooks
-<img src="assets/checking/webhooks.png" style="height: 65%; width: 65%;"/>
+<img src="assets/checking/webhooks.png" style="height: 35%; width: 35%;"/>
 ---
 
 
