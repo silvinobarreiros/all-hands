@@ -41,13 +41,13 @@
 <img src="assets/diesel/in_my_feelings.png" style="height: 40%; width: 40%;"/>
 ---
 
-@snap[west splitscreen fragment]
+@snap[west splitscreen]
 <br>
 ![Image-GIF](https://media.giphy.com/media/1jWcsosCiAuwQC7RwQ/giphy.gif)
 <br>
 @snapend
 
-@snap[east splitscreen]
+@snap[east splitscreen text-color white]
 In My Feelings
 @snapend
 ---
