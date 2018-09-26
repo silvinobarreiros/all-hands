@@ -52,6 +52,20 @@
 @snapend
 ---
 
+<img src="assets/checking/checking_0.png" style="height: 100%; width: 100%;"/>
+---
+<img src="assets/checking/checking_1.png" style="height: 100%; width: 100%;"/>
+---
+<img src="assets/checking/checking_2.png" style="height: 100%; width: 100%;"/>
+---
+<img src="assets/checking/checking_3.png" style="height: 100%; width: 100%;"/>
+---
+<img src="assets/checking/checking_4.png" style="height: 100%; width: 100%;"/>
+---
+<img src="assets/checking/checking_5.png" style="height: 100%; width: 100%;"/>
+---
+
+
 
 ## Questions
 
