@@ -76,15 +76,11 @@
 
 
 @snap[north-west]
-<br>
-  <img src="assets/superoktaman.png" style="height: 25%; width: 25%;"/>
-<br>
+<img src="assets/superoktaman.png" style="height: 25%; width: 25%;"/>
 @snapend
 
 @snap[east]
-<br>
-  <img src="assets/ecs/ecs_1.png" style="height: 75%; width: 75%;"/>
-<br>
+<img src="assets/ecs/ecs_1.png" style="height: 75%; width: 75%;"/>
 @snapend
 
 
