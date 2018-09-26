@@ -43,14 +43,14 @@
 
 @snap[west splitscreen fragment]
 <br>
-![Image-GIF](https://media.giphy.com/media/7uNL0F2Q9uPBu/giphy.gif)
+![Image-GIF](https://media.giphy.com/media/1jWcsosCiAuwQC7RwQ/giphy.gif)
 <br>
 @snapend
 
 @snap[east splitscreen]
 In My Feelings
 @snapend
-
+---
 
 
 ## Questions
