@@ -1,15 +1,9 @@
-
-@snap[east splitscreen fragment]
-<br>
-![Image-GIF](https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/octocat-daftpunkocat.gif)
-<br>
-@snapend
-
----
-
-
 # Bank Platform
 ---
+
++++?image=assets/gifs/ballmer.gif
+@title[GIF Background]
+
 
 ## Who AMI
 
