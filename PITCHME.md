@@ -1,4 +1,18 @@
 # Bank Platform
+---
+
+@snap[west splitscreen fragment]
+<br>
+![Image-GIF](https://media.giphy.com/media/7NIYof6swUU5MQxyAY/giphy.gif)
+<br>
+@snapend
+
+@snap[east splitscreen fragment]
+<br>
+![Image-GIF](https://media.giphy.com/media/3ohzdIciEETK7lkVyg/giphy.gif)
+<br>
+@snapend
+
 
 ---?image=assets/gifs/ballmer.gif
 @title[GIF Background]
